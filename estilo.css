@@ -4,16 +4,11 @@
     justify-content: center;
 }
 
-.botoes{
+.botoes
+{
     display: flex;
     align-items: center;
     justify-content: center;
-
-
 }
 
 
-
-.botao{
-
-}
