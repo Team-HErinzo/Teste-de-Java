@@ -1,6 +1,6 @@
 
 
-function mudaCorTexto()
+function mudarCorTexto()
 {
     alert("Hello World")
 }
