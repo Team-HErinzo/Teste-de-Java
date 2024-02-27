@@ -6,7 +6,7 @@ function mudarCorTexto()
 }
 
 function mudarCorFundo(){
-    document.querySelector("#p2").style.background= "pink"
+    document.querySelector("#p2").style.background= "gray"
 }
 
 function alterarTexto(){
