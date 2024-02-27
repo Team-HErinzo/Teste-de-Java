@@ -6,5 +6,5 @@ function mudarCorTexto()
 }
 
 function mudarCorFundo(){
-    document.querySelector("#p2").background= "green"
+    document.querySelector("#p2").style.background= "green"
 }
