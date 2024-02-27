@@ -8,3 +8,11 @@ function mudarCorTexto()
 function mudarCorFundo(){
     document.querySelector("#p2").style.background= "green"
 }
+
+function alterarTexto(){
+
+    textoForm = document.querySelector("#textinput").value
+ 
+    document.querySelector("#texto2").innerHTML = textoForm
+
+}
